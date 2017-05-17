@@ -1,1 +1,1 @@
-# OctoberCMS - Backyard Theme
+# OctoberCMS - Theme Skeleton
